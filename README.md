@@ -90,4 +90,6 @@ hciconfig -a
 ```
 If it is set up and running, the BD Address should come up with something other than 00:00:00:00:00:00. If you open **Settings -> Bluetooth** you should now be able to turn Bluetooth on and connect to nearby devices, although you may have to toggle Bluetooth on and off a few times before it runs properly, or restart Bluetooth one more time following step 6 of the troubleshooting section.
 
+9. If it is still not set up, download the driver from [the ASUS driver page](https://www.asus.com/networking-iot-servers/adapters/all-series/usb-bt500/helpdesk_download?model2Name=USB-BT500), and extract it into your Downloads folder. Make sure you select the correct driver to download; Linux 32 or 64-bit, depending on your machine. Then follow the troubleshooting steps once more.
+
 
