@@ -36,11 +36,11 @@ systemctl enable bluetooth
 systemctl start bluetooth
 ```
 
-5. Enter the following into Terminal, and make sure the BD Address is something other than 00:00:00:00:00:00:
+5. Enter the following into Terminal, and make sure the BD Address is something other than **00:00:00:00:00:00**:
 ```
 hciconfig -a
 ```
-If the BD Address is just 00:00:00:00:00:00, try the following steps to troubleshoot.
+If the BD Address is **00:00:00:00:00:00**, try the following steps to troubleshoot.
 
 ## Troubleshooting:
 1. Check the logs by entering the following into Terminal:
