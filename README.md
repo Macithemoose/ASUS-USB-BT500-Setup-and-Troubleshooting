@@ -3,7 +3,7 @@ Setting up and troubleshooting the ASUS USB-BT500 Bluetooth Adapter on Linux Ubu
 
 ## Setting Up the Adapter:
 
-1. Make sure your kernel is up to date. Most updated kernels should already contain the necessary drivers to activate the Bluetooth dongle.
+1. Make sure your kernel is up to date. If your Linux kernel is updated, it should already contain the necessary drivers to activate the Bluetooth dongle.
 
   If you have sudo permissions, enter the following into terminal to make sure your kernel is updated:
 
